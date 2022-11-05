@@ -67,15 +67,18 @@ hr
     width: 100%;
 
 }
+
 .top-container
 {
     text-align:center;
     padding-top: 100px;
     background-color: #E1FFEE;
+    width: 100%;
 }
 .middle-container
 {
     text-align: center;
+    width: 100%;
 }
 .bottom-container
 {
@@ -84,6 +87,7 @@ hr
     line-height: 2;
     padding-top: 30px;
     padding-bottom: 30px;
+    width: 100%;
 }
 .bottom-cloud
 {
@@ -92,7 +96,7 @@ hr
 .top-cloud
 {
     position:absolute;
-    left:37%px;
+    left:37px;
     top:50px;
 }
 .underlined
