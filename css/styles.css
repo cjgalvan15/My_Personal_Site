@@ -61,6 +61,12 @@ hr
 }
 
 /*Classes*/
+.center
+{
+    margin: auto;
+    width: 100%;
+
+}
 .top-container
 {
     text-align:center;
