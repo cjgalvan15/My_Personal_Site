@@ -92,12 +92,20 @@ hr
 .bottom-cloud
 {
     position:absolute;
+    width: 5rem;
+    left:40%;
+    top:15rem;
 }
 .top-cloud
 {
     position:absolute;
-    left:37px;
-    top:50px;
+    top:2%;
+    width: 5rem;
+}
+.mountain
+{
+    position:relative;
+    width: 20rem;
 }
 .underlined
 {
