@@ -12,17 +12,17 @@ div
 }
 h1
 {
-    margin: 0 auto 10px auto;
+    margin: 0 auto 0 auto;
     font-family: 'Sacramento', cursive;
-    font-size: 6rem;
+    font-size: 500%;
     color: #66BFBF;
     
 }
 h2
 {
     /*font-weight: bold;*/
-    margin: 10px auto 0 auto;
-    font-size: 2.5rem;
+    margin: 0.5% auto 0 auto;
+    font-size: 200%;
     font-family: 'Montserrat Alternates', sans-serif;
     color: #66BFBF;
     font-weight: normal;
@@ -97,7 +97,7 @@ a:hover
 {
     position:absolute;
     top:2%;
-    width: 5rem;
+    width: 10%;
 }
 .mountain
 {
@@ -115,7 +115,7 @@ a:hover
 }
 .content-images
 {
-    width: 200px;
+    width: 20%;
     
 }
 .programming-skill-img
@@ -132,9 +132,9 @@ a:hover
 }
 .skill-row
 {
-    width: 360px;
+    width: 50%;
     font-size: 16px;
-    margin: auto;
+    margin: 100px auto 100px auto;
 }
 .skills
 {
@@ -176,8 +176,8 @@ a:hover
 
 .intro
 {
-    width: 360px;
-    display:inline-block;
+    width: 50%;
+    margin: auto;
 }
   
 
@@ -190,6 +190,6 @@ a:hover
 #my-skills
 {
     text-align: center;
-    margin: 100px auto;
+    margin: 5% auto;
     
 }
